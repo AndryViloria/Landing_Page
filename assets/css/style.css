@@ -1,0 +1,33 @@
+body {
+    background: beige;
+    margin: 20px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    width: 1000px;
+    margin: 100px auto;
+}
+
+header {
+    background: url(https://media.istockphoto.com/photos/top-view-of-full-english-breakfast-on-concrete-background-fried-eggs-picture-id1310048970?s=612x612) no-repeat;
+    background-color: lightsalmon;
+    padding: 10px;
+    margin: 0px;
+    color: black;
+    text-align: right;
+/*no pude mover la imagen a la derecha :( */
+}
+
+footer {
+    align-self: flex-end;
+    background: lightcoral;
+    padding: 15px;
+    margin: 0px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 13px;
+}
